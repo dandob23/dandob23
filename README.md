@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a software developer student at a Hungarian university with a passion for becoming a video game developer (or something equally exciting). 🎮
+
+Feel free to explore my GitHub repositories, where you can find some of my coding adventures.
+
+Wish me luck on my journey! 🚀
+
 <!--
 **dandob23/dandob23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
